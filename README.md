@@ -8,3 +8,5 @@ For each of the following problems, you should write a single SQL query that out
 
 You’re welcome to check your queries’ results against IMDb itself, but realize that ratings on the website might differ from those in movies.db, as more votes might have been cast since we downloaded the data!
 
+## Setup Instructions
+* install DB Browser
